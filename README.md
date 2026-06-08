@@ -36,5 +36,5 @@
 
 <p class="small">Déplacement à domicile frais supplémentaires selon distance</p>
 
-</body>
+</body> 
 </html>
