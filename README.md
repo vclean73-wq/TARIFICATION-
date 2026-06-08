@@ -2,7 +2,7 @@
 </head>
 <body>
 
-<h1>V. CLEAN</h1>
+<h1>Itinerant Proprete</h1>
 <h2>Nettoyage automobile à domicile</h2>
 
 <div class="card">
