@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-body{
-    margin:0;
-    background:#000;
-    color:#e8dcc9;
-    font-family:Georgia,serif;
-    text-align:center;
-    padding:20px;
-}
-h1{
-    margin:0;
-    font-size:2.2em;
-    letter-spacing:4px;
-}
-h2{
-    font-size:1em;
-    font-weight:normal;
-    color:#999;
-    margin-bottom:30px;
-}
-.card{
-    border:1px solid #444;
-    padding:15px;
-    margin:10px auto;
-    max-width:350px;
-}
-.price{
-    float:right;
-}
-hr{
-    border:0;
-    border-top:1px solid #333;
-    margin:25px 0;
-}
-.small{
-    color:#aaa;
-    font-size:.9em;
-}
-</style>
+<doctypehtml> 
 </head>
 <body>
 
