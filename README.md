@@ -17,24 +17,24 @@
 </div>
 
 <div class="card">
-<p>Intérieur Complet <span class="price">70€</span></p>
-<div class="small">+ Shampoing des sièges</div>
+<p>Nettoyage Intérieur +Siège <span class="price">70€</span></p>
+<div class="small">+ Shampoing des sièges en plus du nettoyage intérieur</div>
 </div>
 
 <div class="card">
-<p><b>Offre Prestige</b></p>
-<p>Intérieur + Extérieur <span class="price">100€</span></p>
+<p><b>Offre Complette</b></p>
+<p>Intérieur +Siege & Extérieur <span class="price">100€</span></p>
 </div>
 
 <hr>
 
 <p>📞 07 58 31 62 68</p>
-<p>✉️ victor73esp@gmail.com</p>
-<p>📍 Chambéry & alentours</p>
+<p>✉️ v.clean@icloud.com</p>
+<p>📍 Haute Savoie & Savoie & Iser</p>
 
 <hr>
 
-<p class="small">Déplacement à domicile inclus</p>
+<p class="small">Déplacement à domicile frais supplémentaires selon distance</p>
 
 </body>
 </html>
