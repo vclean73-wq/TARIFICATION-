@@ -8,7 +8,7 @@
 <div class="card">
 <p>Nettoyage Extérieur <span class="price">35€</span></p>
 <div class="small">Carrosserie • Jantes • Vitres</div>
-<div class="small">⚡ Eau et prise électrique requises</div>
+<div class="small">🚰 Eau et ⚡️prise électrique requises</div>
 </div>
 
 <div class="card">
